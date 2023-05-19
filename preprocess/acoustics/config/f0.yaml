@@ -1,0 +1,3 @@
+min_pitch_note: "C2"
+max_pitch_note: "C7"
+using_log_scale: true

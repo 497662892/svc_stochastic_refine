@@ -1,0 +1,3 @@
+[submodule "latent_diffusion"]
+	path = latent_diffusion
+	url = https://github.com/497662892/latent-diffusion-for-fun

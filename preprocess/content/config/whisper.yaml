@@ -1,0 +1,4 @@
+model_name: "medium"
+sequence_len: 1500
+width: 1024    # which is dependent on model_name
+inference_batch_size: 80    # please set to a suitable one according to your GPU memory

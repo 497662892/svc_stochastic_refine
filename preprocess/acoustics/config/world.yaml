@@ -1,0 +1,2 @@
+frameshift: 10    # ms
+mcep_dim: 40

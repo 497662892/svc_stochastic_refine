@@ -1,0 +1,602 @@
+[
+    {
+        "Singer": "Alto-1",
+        "Song": "旋木",
+        "Uid": "0022",
+        "Path": "Alto-1#旋木/0022.wav"
+    },
+    {
+        "Singer": "Alto-1",
+        "Song": "打错了",
+        "Uid": "0001",
+        "Path": "Alto-1#打错了/0001.wav"
+    },
+    {
+        "Singer": "Alto-1",
+        "Song": "致青春",
+        "Uid": "0005",
+        "Path": "Alto-1#致青春/0005.wav"
+    },
+    {
+        "Singer": "Alto-1",
+        "Song": "匿名的好友",
+        "Uid": "0030",
+        "Path": "Alto-1#匿名的好友/0030.wav"
+    },
+    {
+        "Singer": "Alto-1",
+        "Song": "旅行的意义",
+        "Uid": "0017",
+        "Path": "Alto-1#旅行的意义/0017.wav"
+    },
+    {
+        "Singer": "Alto-2",
+        "Song": "想你,零点零一分",
+        "Uid": "0007",
+        "Path": "Alto-2#想你,零点零一分/0007.wav"
+    },
+    {
+        "Singer": "Alto-2",
+        "Song": "刻在我心底的名字",
+        "Uid": "0026",
+        "Path": "Alto-2#刻在我心底的名字/0026.wav"
+    },
+    {
+        "Singer": "Alto-2",
+        "Song": "柠檬草的味道",
+        "Uid": "0009",
+        "Path": "Alto-2#柠檬草的味道/0009.wav"
+    },
+    {
+        "Singer": "Alto-2",
+        "Song": "我不难过",
+        "Uid": "0031",
+        "Path": "Alto-2#我不难过/0031.wav"
+    },
+    {
+        "Singer": "Alto-2",
+        "Song": "成全",
+        "Uid": "0016",
+        "Path": "Alto-2#成全/0016.wav"
+    },
+    {
+        "Singer": "Alto-3",
+        "Song": "给我一个理由忘记",
+        "Uid": "0024",
+        "Path": "Alto-3#给我一个理由忘记/0024.wav"
+    },
+    {
+        "Singer": "Alto-3",
+        "Song": "不为谁而作的歌",
+        "Uid": "0009",
+        "Path": "Alto-3#不为谁而作的歌/0009.wav"
+    },
+    {
+        "Singer": "Alto-3",
+        "Song": "红玫瑰",
+        "Uid": "0013",
+        "Path": "Alto-3#红玫瑰/0013.wav"
+    },
+    {
+        "Singer": "Alto-3",
+        "Song": "泡沫",
+        "Uid": "0002",
+        "Path": "Alto-3#泡沫/0002.wav"
+    },
+    {
+        "Singer": "Alto-3",
+        "Song": "身骑白马",
+        "Uid": "0030",
+        "Path": "Alto-3#身骑白马/0030.wav"
+    },
+    {
+        "Singer": "Alto-4",
+        "Song": "梦一场",
+        "Uid": "0035",
+        "Path": "Alto-4#梦一场/0035.wav"
+    },
+    {
+        "Singer": "Alto-4",
+        "Song": "董小姐",
+        "Uid": "0012",
+        "Path": "Alto-4#董小姐/0012.wav"
+    },
+    {
+        "Singer": "Alto-4",
+        "Song": "理想",
+        "Uid": "0016",
+        "Path": "Alto-4#理想/0016.wav"
+    },
+    {
+        "Singer": "Alto-4",
+        "Song": "演员",
+        "Uid": "0041",
+        "Path": "Alto-4#演员/0041.wav"
+    },
+    {
+        "Singer": "Alto-4",
+        "Song": "一首简单的歌",
+        "Uid": "0001",
+        "Path": "Alto-4#一首简单的歌/0001.wav"
+    },
+    {
+        "Singer": "Alto-5",
+        "Song": "小酒窝",
+        "Uid": "0025",
+        "Path": "Alto-5#小酒窝/0025.wav"
+    },
+    {
+        "Singer": "Alto-5",
+        "Song": "男孩",
+        "Uid": "0024",
+        "Path": "Alto-5#男孩/0024.wav"
+    },
+    {
+        "Singer": "Alto-5",
+        "Song": "贝加尔湖畔",
+        "Uid": "0019",
+        "Path": "Alto-5#贝加尔湖畔/0019.wav"
+    },
+    {
+        "Singer": "Alto-5",
+        "Song": "送别",
+        "Uid": "0010",
+        "Path": "Alto-5#送别/0010.wav"
+    },
+    {
+        "Singer": "Alto-5",
+        "Song": "我的歌声里",
+        "Uid": "0016",
+        "Path": "Alto-5#我的歌声里/0016.wav"
+    },
+    {
+        "Singer": "Alto-6",
+        "Song": "小幸运",
+        "Uid": "0018",
+        "Path": "Alto-6#小幸运/0018.wav"
+    },
+    {
+        "Singer": "Alto-6",
+        "Song": "凉凉",
+        "Uid": "0002",
+        "Path": "Alto-6#凉凉/0002.wav"
+    },
+    {
+        "Singer": "Alto-6",
+        "Song": "小半",
+        "Uid": "0000",
+        "Path": "Alto-6#小半/0000.wav"
+    },
+    {
+        "Singer": "Alto-6",
+        "Song": "江南",
+        "Uid": "0000",
+        "Path": "Alto-6#江南/0000.wav"
+    },
+    {
+        "Singer": "Alto-6",
+        "Song": "画",
+        "Uid": "0006",
+        "Path": "Alto-6#画/0006.wav"
+    },
+    {
+        "Singer": "Alto-7",
+        "Song": "某人",
+        "Uid": "0011",
+        "Path": "Alto-7#某人/0011.wav"
+    },
+    {
+        "Singer": "Alto-7",
+        "Song": "七年",
+        "Uid": "0010",
+        "Path": "Alto-7#七年/0010.wav"
+    },
+    {
+        "Singer": "Alto-7",
+        "Song": "素颜",
+        "Uid": "0006",
+        "Path": "Alto-7#素颜/0006.wav"
+    },
+    {
+        "Singer": "Alto-7",
+        "Song": "远走高飞",
+        "Uid": "0021",
+        "Path": "Alto-7#远走高飞/0021.wav"
+    },
+    {
+        "Singer": "Alto-7",
+        "Song": "说散就散",
+        "Uid": "0006",
+        "Path": "Alto-7#说散就散/0006.wav"
+    },
+    {
+        "Singer": "Bass-1",
+        "Song": "理想三旬",
+        "Uid": "0002",
+        "Path": "Bass-1#理想三旬/0002.wav"
+    },
+    {
+        "Singer": "Bass-1",
+        "Song": "荒岛",
+        "Uid": "0002",
+        "Path": "Bass-1#荒岛/0002.wav"
+    },
+    {
+        "Singer": "Bass-1",
+        "Song": "多情的土地",
+        "Uid": "0007",
+        "Path": "Bass-1#多情的土地/0007.wav"
+    },
+    {
+        "Singer": "Bass-1",
+        "Song": "末班车",
+        "Uid": "0023",
+        "Path": "Bass-1#末班车/0023.wav"
+    },
+    {
+        "Singer": "Bass-1",
+        "Song": "一把破吉他1999",
+        "Uid": "0000",
+        "Path": "Bass-1#一把破吉他1999/0000.wav"
+    },
+    {
+        "Singer": "Bass-2",
+        "Song": "蓝莲花",
+        "Uid": "0002",
+        "Path": "Bass-2#蓝莲花/0002.wav"
+    },
+    {
+        "Singer": "Bass-2",
+        "Song": "夜空里最亮的星",
+        "Uid": "0020",
+        "Path": "Bass-2#夜空里最亮的星/0020.wav"
+    },
+    {
+        "Singer": "Bass-2",
+        "Song": "祖国慈祥的母亲",
+        "Uid": "0009",
+        "Path": "Bass-2#祖国慈祥的母亲/0009.wav"
+    },
+    {
+        "Singer": "Bass-2",
+        "Song": "杀死那个石家庄人",
+        "Uid": "0014",
+        "Path": "Bass-2#杀死那个石家庄人/0014.wav"
+    },
+    {
+        "Singer": "Bass-2",
+        "Song": "等你爱我",
+        "Uid": "0010",
+        "Path": "Bass-2#等你爱我/0010.wav"
+    },
+    {
+        "Singer": "Bass-3",
+        "Song": "能走多远",
+        "Uid": "0013",
+        "Path": "Bass-3#能走多远/0013.wav"
+    },
+    {
+        "Singer": "Bass-3",
+        "Song": "认真的老去",
+        "Uid": "0028",
+        "Path": "Bass-3#认真的老去/0028.wav"
+    },
+    {
+        "Singer": "Bass-3",
+        "Song": "记念",
+        "Uid": "0013",
+        "Path": "Bass-3#记念/0013.wav"
+    },
+    {
+        "Singer": "Bass-3",
+        "Song": "告白气球",
+        "Uid": "0008",
+        "Path": "Bass-3#告白气球/0008.wav"
+    },
+    {
+        "Singer": "Bass-3",
+        "Song": "末班车",
+        "Uid": "0020",
+        "Path": "Bass-3#末班车/0020.wav"
+    },
+    {
+        "Singer": "Soprano-1",
+        "Song": "绒花",
+        "Uid": "0008",
+        "Path": "Soprano-1#绒花/0008.wav"
+    },
+    {
+        "Singer": "Soprano-1",
+        "Song": "渔光曲",
+        "Uid": "0014",
+        "Path": "Soprano-1#渔光曲/0014.wav"
+    },
+    {
+        "Singer": "Soprano-1",
+        "Song": "怀念曲",
+        "Uid": "0007",
+        "Path": "Soprano-1#怀念曲/0007.wav"
+    },
+    {
+        "Singer": "Soprano-1",
+        "Song": "敕勒歌",
+        "Uid": "0019",
+        "Path": "Soprano-1#敕勒歌/0019.wav"
+    },
+    {
+        "Singer": "Soprano-1",
+        "Song": "怀念曲",
+        "Uid": "0008",
+        "Path": "Soprano-1#怀念曲/0008.wav"
+    },
+    {
+        "Singer": "Soprano-2",
+        "Song": "可惜不是你",
+        "Uid": "0005",
+        "Path": "Soprano-2#可惜不是你/0005.wav"
+    },
+    {
+        "Singer": "Soprano-2",
+        "Song": "小幸运",
+        "Uid": "0014",
+        "Path": "Soprano-2#小幸运/0014.wav"
+    },
+    {
+        "Singer": "Soprano-2",
+        "Song": "背对背拥抱",
+        "Uid": "0022",
+        "Path": "Soprano-2#背对背拥抱/0022.wav"
+    },
+    {
+        "Singer": "Soprano-2",
+        "Song": "那些你很冒险的梦",
+        "Uid": "0015",
+        "Path": "Soprano-2#那些你很冒险的梦/0015.wav"
+    },
+    {
+        "Singer": "Soprano-2",
+        "Song": "蒲公英的约定",
+        "Uid": "0019",
+        "Path": "Soprano-2#蒲公英的约定/0019.wav"
+    },
+    {
+        "Singer": "Soprano-3",
+        "Song": "小酒窝",
+        "Uid": "0035",
+        "Path": "Soprano-3#小酒窝/0035.wav"
+    },
+    {
+        "Singer": "Soprano-3",
+        "Song": "绣红旗",
+        "Uid": "0001",
+        "Path": "Soprano-3#绣红旗/0001.wav"
+    },
+    {
+        "Singer": "Soprano-3",
+        "Song": "洪湖水浪打浪",
+        "Uid": "0009",
+        "Path": "Soprano-3#洪湖水浪打浪/0009.wav"
+    },
+    {
+        "Singer": "Soprano-3",
+        "Song": "画",
+        "Uid": "0021",
+        "Path": "Soprano-3#画/0021.wav"
+    },
+    {
+        "Singer": "Soprano-3",
+        "Song": "绣红旗",
+        "Uid": "0001",
+        "Path": "Soprano-3#绣红旗/0001.wav"
+    },
+    {
+        "Singer": "Tenor-1",
+        "Song": "交换余生",
+        "Uid": "0013",
+        "Path": "Tenor-1#交换余生/0013.wav"
+    },
+    {
+        "Singer": "Tenor-1",
+        "Song": "交换余生",
+        "Uid": "0012",
+        "Path": "Tenor-1#交换余生/0012.wav"
+    },
+    {
+        "Singer": "Tenor-1",
+        "Song": "蜂鸟",
+        "Uid": "0015",
+        "Path": "Tenor-1#蜂鸟/0015.wav"
+    },
+    {
+        "Singer": "Tenor-1",
+        "Song": "童话",
+        "Uid": "0027",
+        "Path": "Tenor-1#童话/0027.wav"
+    },
+    {
+        "Singer": "Tenor-1",
+        "Song": "一定会",
+        "Uid": "0012",
+        "Path": "Tenor-1#一定会/0012.wav"
+    },
+    {
+        "Singer": "Tenor-2",
+        "Song": "外面的世界",
+        "Uid": "0016",
+        "Path": "Tenor-2#外面的世界/0016.wav"
+    },
+    {
+        "Singer": "Tenor-2",
+        "Song": "拥有",
+        "Uid": "0000",
+        "Path": "Tenor-2#拥有/0000.wav"
+    },
+    {
+        "Singer": "Tenor-2",
+        "Song": "水星记",
+        "Uid": "0001",
+        "Path": "Tenor-2#水星记/0001.wav"
+    },
+    {
+        "Singer": "Tenor-2",
+        "Song": "一荤一素",
+        "Uid": "0015",
+        "Path": "Tenor-2#一荤一素/0015.wav"
+    },
+    {
+        "Singer": "Tenor-2",
+        "Song": "平凡之路",
+        "Uid": "0008",
+        "Path": "Tenor-2#平凡之路/0008.wav"
+    },
+    {
+        "Singer": "Tenor-3",
+        "Song": "孤独患者",
+        "Uid": "0023",
+        "Path": "Tenor-3#孤独患者/0023.wav"
+    },
+    {
+        "Singer": "Tenor-3",
+        "Song": "好久不见",
+        "Uid": "0028",
+        "Path": "Tenor-3#好久不见/0028.wav"
+    },
+    {
+        "Singer": "Tenor-3",
+        "Song": "其实都没有",
+        "Uid": "0000",
+        "Path": "Tenor-3#其实都没有/0000.wav"
+    },
+    {
+        "Singer": "Tenor-3",
+        "Song": "梦想天空分外蓝",
+        "Uid": "0028",
+        "Path": "Tenor-3#梦想天空分外蓝/0028.wav"
+    },
+    {
+        "Singer": "Tenor-3",
+        "Song": "好久不见",
+        "Uid": "0030",
+        "Path": "Tenor-3#好久不见/0030.wav"
+    },
+    {
+        "Singer": "Tenor-4",
+        "Song": "聪明累",
+        "Uid": "0011",
+        "Path": "Tenor-4#聪明累/0011.wav"
+    },
+    {
+        "Singer": "Tenor-4",
+        "Song": "青花瓷",
+        "Uid": "0025",
+        "Path": "Tenor-4#青花瓷/0025.wav"
+    },
+    {
+        "Singer": "Tenor-4",
+        "Song": "惊鸿舞",
+        "Uid": "0011",
+        "Path": "Tenor-4#惊鸿舞/0011.wav"
+    },
+    {
+        "Singer": "Tenor-4",
+        "Song": "青花瓷",
+        "Uid": "0002",
+        "Path": "Tenor-4#青花瓷/0002.wav"
+    },
+    {
+        "Singer": "Tenor-4",
+        "Song": "宿敌",
+        "Uid": "0032",
+        "Path": "Tenor-4#宿敌/0032.wav"
+    },
+    {
+        "Singer": "Tenor-5",
+        "Song": "大城小爱",
+        "Uid": "0025",
+        "Path": "Tenor-5#大城小爱/0025.wav"
+    },
+    {
+        "Singer": "Tenor-5",
+        "Song": "伯牙绝弦",
+        "Uid": "0007",
+        "Path": "Tenor-5#伯牙绝弦/0007.wav"
+    },
+    {
+        "Singer": "Tenor-5",
+        "Song": "红色高跟鞋",
+        "Uid": "0010",
+        "Path": "Tenor-5#红色高跟鞋/0010.wav"
+    },
+    {
+        "Singer": "Tenor-5",
+        "Song": "我要你",
+        "Uid": "0007",
+        "Path": "Tenor-5#我要你/0007.wav"
+    },
+    {
+        "Singer": "Tenor-5",
+        "Song": "我怀念的",
+        "Uid": "0018",
+        "Path": "Tenor-5#我怀念的/0018.wav"
+    },
+    {
+        "Singer": "Tenor-6",
+        "Song": "行歌",
+        "Uid": "0010",
+        "Path": "Tenor-6#行歌/0010.wav"
+    },
+    {
+        "Singer": "Tenor-6",
+        "Song": "追寻",
+        "Uid": "0029",
+        "Path": "Tenor-6#追寻/0029.wav"
+    },
+    {
+        "Singer": "Tenor-6",
+        "Song": "父亲写的散文诗",
+        "Uid": "0021",
+        "Path": "Tenor-6#父亲写的散文诗/0021.wav"
+    },
+    {
+        "Singer": "Tenor-6",
+        "Song": "枫",
+        "Uid": "0024",
+        "Path": "Tenor-6#枫/0024.wav"
+    },
+    {
+        "Singer": "Tenor-6",
+        "Song": "寻人启事",
+        "Uid": "0017",
+        "Path": "Tenor-6#寻人启事/0017.wav"
+    },
+    {
+        "Singer": "Tenor-7",
+        "Song": "玫瑰三愿",
+        "Uid": "0002",
+        "Path": "Tenor-7#玫瑰三愿/0002.wav"
+    },
+    {
+        "Singer": "Tenor-7",
+        "Song": "七里香",
+        "Uid": "0022",
+        "Path": "Tenor-7#七里香/0022.wav"
+    },
+    {
+        "Singer": "Tenor-7",
+        "Song": "末班车",
+        "Uid": "0032",
+        "Path": "Tenor-7#末班车/0032.wav"
+    },
+    {
+        "Singer": "Tenor-7",
+        "Song": "心升明月",
+        "Uid": "0010",
+        "Path": "Tenor-7#心升明月/0010.wav"
+    },
+    {
+        "Singer": "Tenor-7",
+        "Song": "听海",
+        "Uid": "0027",
+        "Path": "Tenor-7#听海/0027.wav"
+    }
+]
