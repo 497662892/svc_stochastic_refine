@@ -4,10 +4,10 @@ Attention!!! Great update for this project in 2023-05-14 !!!
 
 We successfully implement a New Framework of applying diffusion model in SVC task. The new framework is called DiffSVC++ V2, as shown in the following figure 
 
-![framework](https://github.com/SLPcourse/MDS6002-222041023-BingliangLi/blob/main/fig1.jpg).  (a) The workflow of the SVC system. (b) The structure of our proposed framework DiffSVC++ V2. The initial MCEP predictor produces the deterministic candidate, and then the diffusion denoiser network refines it. (c) The structure of the classical diffusion model. It samples the MCEP directly from noise.
+![framework](https://github.com/497662892/svc_stochastic_refine/blob/main/fig1.jpg).  (a) The workflow of the SVC system. (b) The structure of our proposed framework DiffSVC++ V2. The initial MCEP predictor produces the deterministic candidate, and then the diffusion denoiser network refines it. (c) The structure of the classical diffusion model. It samples the MCEP directly from noise.
 
  Our results display a significant improvement in the quality of acoustic feature generation and training efficiency compared to the classical diffusion models framework!
- ![framework](https://github.com/SLPcourse/MDS6002-222041023-BingliangLi/blob/main/tab1.jpg)
+ ![framework](https://github.com/497662892/svc_stochastic_refine/blob/main/tab1.jpg)
 
 To know more about SVC, you can read [this tutorial](https://www.zhangxueyao.com/data/SVC/tutorial.html).
 
